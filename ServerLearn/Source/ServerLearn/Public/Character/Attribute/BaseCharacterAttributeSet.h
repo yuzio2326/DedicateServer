@@ -20,7 +20,7 @@ class UBaseCharacterAttributeSet : public UAttributeSet
 	* So Should I Replicate All monster's Position?
 	*/
 
-
+	/*SourceTree에서 확일 할때만  한글이 깨지는거 확인*/
 
 	UPROPERTY(VisibleAnywhere, Replicated)
 	FGameplayAttributeData HP;
